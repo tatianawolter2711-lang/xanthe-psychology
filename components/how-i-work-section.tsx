@@ -15,7 +15,7 @@ export function HowIWorkSection() {
             </p>
             
             <p className="text-base md:text-lg">
-              In our work together, I aim to create a relationship that feels safe, authentic, and collaborative. Therapy is not something I do <em>to</em> you—it's something we do together. I'll bring my expertise and experience, but you are the expert on your own life. My role is to help you make sense of your experiences, identify patterns that might be keeping you stuck, and explore new ways of thinking, feeling, and being.
+              In our work together, I aim to create a relationship that feels safe, authentic, and collaborative. Therapy is not something I do <em>to</em> you - it's something we do together. I'll bring my expertise and experience, but you are the expert on your own life. My role is to help you make sense of your experiences, identify patterns that might be keeping you stuck, and explore new ways of thinking, feeling, and being.
             </p>
             
             <p className="text-base md:text-lg">
@@ -23,7 +23,7 @@ export function HowIWorkSection() {
             </p>
             
             <p className="text-base md:text-lg">
-              Above all, I believe therapy should feel human. I'm not here to give you answers or fix you—you're not broken. I'm here to listen, to understand, and to walk alongside you as you figure out what feels right for you.
+              Above all, I believe therapy should feel human. I'm not here to give you answers or fix you - you're not broken. I'm here to listen, to understand, and to walk alongside you as you figure out what feels right for you.
             </p>
           </div>
         </div>

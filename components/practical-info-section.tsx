@@ -37,7 +37,7 @@ export function PracticalInfoSection() {
                   Insurance
                 </h3>
                 <p className="text-stone-700 leading-relaxed">
-                  I am registered with most major private health insurance providers, including Aviva, AXA PPP, Bupa, and Vitality. Please check your policy for coverage details, and I can provide invoices for you to submit claims.
+                  I am registered with most major private health insurance providers, including Aviva, AXA PPP, and Vitality. Please check your policy for coverage details, and I can provide invoices for you to submit claims.
                 </p>
               </div>
 

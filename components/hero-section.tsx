@@ -1,5 +1,6 @@
 'use client';
 
+import Image from "next/image"
 import { Button } from "@/components/ui/button"
 
 export function HeroSection() {
@@ -14,10 +15,22 @@ export function HeroSection() {
   return (
     <section id="about" className="py-32 md:py-40 bg-stone-50">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="max-w-3xl mx-auto text-center">
-          <h1 className="text-5xl md:text-6xl lg:text-7xl font-serif font-normal text-stone-800 mb-6 tracking-tight">
-            Dr Xanthe Wolter-Ferguson
-          </h1>
+        <div className="max-w-4xl mx-auto text-center">
+          <div className="flex flex-col md:flex-row items-center justify-center gap-6 md:gap-10 mb-8">
+            <div className="relative w-44 h-44 md:w-52 md:h-52 flex-shrink-0">
+              <div className="absolute inset-0 rounded-full ring-4 ring-stone-200/60 ring-offset-4 ring-offset-stone-50"></div>
+              <Image
+                src="/IMG_3072.jpg"
+                alt="Dr Xanthe Wolter-Ferguson"
+                fill
+                className="rounded-full object-cover shadow-xl"
+                priority
+              />
+            </div>
+            <h1 className="text-5xl md:text-6xl lg:text-7xl font-serif font-normal text-stone-800 tracking-tight leading-tight">
+              Dr Xanthe Wolter-Ferguson
+            </h1>
+          </div>
 
           <p className="text-lg md:text-xl text-stone-600 mb-16 font-light leading-relaxed">
             HCPC-registered Counselling Psychologist | Witney & Oxford | In-person and online
