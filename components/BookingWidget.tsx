@@ -36,15 +36,15 @@ export function BookingWidget() {
     const timeFormatted = formData.preferredTime || 'Not specified';
 
     // Create email subject and body
-    const subject = encodeURIComponent(`Booking Request from ${formData.name}`);
+    const subject = encodeURIComponent(`Enquiry from ${formData.name}`);
     const body = encodeURIComponent(
-      `New Booking Request\n\n` +
+      `New Enquiry\n\n` +
       `Name: ${formData.name}\n` +
       `Phone: ${formData.phone}\n` +
       `Preferred Date: ${dateFormatted}\n` +
       `Preferred Time: ${timeFormatted}\n` +
       `Location: ${locationFormatted}\n\n` +
-      `I would like to book an appointment.`
+      `I would like to enquire about therapy.`
     );
 
     // Open mailto link

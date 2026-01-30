@@ -9,10 +9,10 @@ export function BookingSection() {
         <div className="max-w-4xl mx-auto">
           <div className="text-center mb-16">
             <h2 className="text-4xl md:text-5xl font-serif font-normal text-stone-800 mb-6">
-              Book an Appointment
+              Make an Enquiry
             </h2>
             <p className="text-base md:text-lg text-stone-600 max-w-xl mx-auto leading-relaxed">
-              Complete the form below and Dr. Wolter-Ferguson will be in touch to arrange your first session
+              Complete the form below and Dr Wolter-Ferguson will be in touch to discuss how she can help
             </p>
           </div>
 
