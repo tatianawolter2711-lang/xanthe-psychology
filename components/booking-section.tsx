@@ -12,7 +12,7 @@ export function BookingSection() {
               Make an Enquiry
             </h2>
             <p className="text-base md:text-lg text-stone-600 max-w-xl mx-auto leading-relaxed">
-              Complete the form below and Dr Wolter-Ferguson will be in touch to discuss how she can help
+              Complete the form below to get in touch
             </p>
           </div>
 
