@@ -50,7 +50,7 @@ export function HeroSection() {
             size="lg"
             className="bg-emerald-700 text-white hover:bg-emerald-800 font-normal px-10 py-6 text-base rounded-md shadow-sm transition-colors"
           >
-            <a href="#booking" onClick={scrollToBooking}>Book an introductory session</a>
+            <a href="#booking" onClick={scrollToBooking}>Make an Enquiry</a>
           </Button>
         </div>
       </div>

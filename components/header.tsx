@@ -39,12 +39,12 @@ export function Header() {
           </nav>
 
           <Button asChild size="sm" className="bg-emerald-700 text-white hover:bg-emerald-800 font-normal rounded-md hidden md:inline-flex">
-            <a href="#booking">Book Session</a>
+            <a href="#booking">Make an Enquiry</a>
           </Button>
-          
+
           {/* Mobile CTA */}
           <Button asChild size="sm" className="bg-emerald-700 text-white hover:bg-emerald-800 font-normal rounded-md md:hidden">
-            <a href="#booking">Book</a>
+            <a href="#booking">Enquire</a>
           </Button>
         </div>
       </div>
