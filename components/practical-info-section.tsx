@@ -37,7 +37,7 @@ export function PracticalInfoSection() {
                   Insurance
                 </h3>
                 <p className="text-stone-700 leading-relaxed">
-                  I am recognised by major private health insurers including Bupa, AXA Health, Aviva and Vitality. For clients using insurance, session numbers and payment arrangements are set by the insurer, and invoices are submitted directly where applicable. Please ensure authorisation has been arranged before the first appointment. I am happy to answer any questions about using insurance cover.
+                  I am recognised by major private health insurers including Bupa, AXA Health, Aviva and Vitality. Where therapy is funded through insurance, session numbers are agreed with your insurer and invoices are submitted directly to the insurer on your behalf. Please ensure authorisation is in place before the first appointment.
                 </p>
               </div>
 
