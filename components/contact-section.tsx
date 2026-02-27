@@ -108,6 +108,11 @@ export function ContactSection() {
                   <Button type="submit" className="w-full bg-foreground text-background hover:bg-foreground/90 py-6 font-medium">
                     Send Message
                   </Button>
+
+                  <p className="text-muted-foreground text-sm leading-relaxed text-center mt-4">
+                    By submitting this form, you agree that your information will be used to respond to your enquiry in accordance with the{' '}
+                    <a href="/privacy" className="underline hover:text-foreground">Privacy Notice</a>.
+                  </p>
                 </form>
               </CardContent>
             </Card>
