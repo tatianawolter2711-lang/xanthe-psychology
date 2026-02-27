@@ -79,6 +79,11 @@ export function BookingWidget() {
       >
         Send Request
       </Button>
+
+      <p className="text-stone-500 text-sm leading-relaxed text-center mt-6">
+        By submitting this form, you agree that your information will be used to respond to your enquiry in accordance with the{' '}
+        <a href="/privacy" className="underline hover:text-stone-700">Privacy Notice</a>.
+      </p>
     </form>
   );
 }

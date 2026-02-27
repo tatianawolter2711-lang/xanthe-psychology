@@ -37,7 +37,7 @@ export function PracticalInfoSection() {
                   Insurance
                 </h3>
                 <p className="text-stone-700 leading-relaxed">
-                  I am registered with most major private health insurance providers, including Aviva, AXA PPP, and Vitality. Please check your policy for coverage details, and I can provide invoices for you to submit claims.
+                  I am recognised by major private health insurers including Bupa, AXA Health, Aviva and Vitality. For clients using insurance, session numbers and payment arrangements are set by the insurer, and invoices are submitted directly where applicable. Please ensure authorisation has been arranged before the first appointment. I am happy to answer any questions about using insurance cover.
                 </p>
               </div>
 
@@ -46,7 +46,7 @@ export function PracticalInfoSection() {
                   Confidentiality
                 </h3>
                 <p className="text-stone-700 leading-relaxed">
-                  Everything you share in therapy is confidential, except in rare circumstances where there is a risk of serious harm to yourself or others. I adhere to the ethical guidelines of the HCPC and BPS.
+                  Everything you share in therapy is confidential, except in rare circumstances where there is a risk of serious harm to yourself or others. I adhere to the ethical guidelines of the HCPC.
                 </p>
               </div>
             </div>
